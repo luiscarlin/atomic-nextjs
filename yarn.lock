@@ -883,6 +883,7 @@ __metadata:
     react: 17.0.2
     react-dom: 17.0.2
     styled-components: ^5.3.1
+    styled-reset: ^4.3.4
     typescript: 4.4.3
   languageName: unknown
   linkType: soft
@@ -4826,6 +4827,15 @@ resolve@^2.0.0-next.3:
     "@babel/core":
       optional: true
   checksum: a4260ba093086ed50c903ce1e4e564c4162d041238c02d8f9f8d1b259224f54ac49b49e9b4a6e3396c27e688dd870da7552c35ea9622c25aaa4777b2df64bb26
+  languageName: node
+  linkType: hard
+
+"styled-reset@npm:^4.3.4":
+  version: 4.3.4
+  resolution: "styled-reset@npm:4.3.4"
+  peerDependencies:
+    styled-components: ">=4.0.0 || >=5.0.0"
+  checksum: 2a652f1d0276badcf779315589dd1fd5bb3744d619b8caa068c4fd42ab1dd725c59a3e594d62575b6ad8b8e59cf2c155a9036fe473688641d0f583983bc9a6af
   languageName: node
   linkType: hard
 
